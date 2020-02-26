@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroTest</string>
+    <string name="app_hello">Hello and welcome !</string>
+
+</resources>
